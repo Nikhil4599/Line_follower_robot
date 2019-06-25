@@ -1,7 +1,7 @@
-### Line_follower_robot
+# Line_follower_robot
 Arduino program for line follower hardware project.
 
-# Circuit Diagram
+## Circuit Diagram
 
-# DEMO
+## DEMO
 ![line_follower](line_follower.gif)
